@@ -106,6 +106,8 @@ List of modifications:
 2. pin 4: supply 2.5 V instead of GND
 3. pin 8: EXT, supply external threshold voltage
 
+FSIT6-PRO: variante de la uaEFI F3 con serigrafía personalizada.
+
 Pins 4 and 6 needs to be lifted from PCB to be disconnected from GND. Pin 8 initially is not connected to any circuit.
 
 Use hot air gun to de-solder whole chip. Then twist pins 4 and 6 up so both do not touch PCB. Then solder chip back to PCB
